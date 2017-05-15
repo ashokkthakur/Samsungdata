@@ -9,8 +9,8 @@
 # To run the program -
 
 ## Place the source code "run_analysis.R" in the working directory, and create s subfolder "data" - (./data)
-## From the R console, after moving to working directory, execute the code-
-* source("run_analysis.R")
+* From the R console, after moving to working directory, execute the code-
+** source("run_analysis.R")
 ## The code will perform the below listed steps and will return back to the prompt.
 * execute "View(avg_tidydataset)" to view the final output.
 * open file "tidydataset.txt" from the "./data" subfolder to view the output file.
