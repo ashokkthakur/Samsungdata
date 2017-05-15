@@ -1,7 +1,7 @@
 # Samsungdata
-Analyze Samsung wearable data and create tidy data set
+*Analyze Samsung wearable data and create tidy data set
 
-updated as part of run_analysis code application on the source data set
+*updated as part of run_analysis code application on the source data set
 
 #This program is to download the "wearablecomputing.zip" source data and process it in 5 different steps to make it a tidy dataset and 
 #write the output to a text file with space separated variables.
